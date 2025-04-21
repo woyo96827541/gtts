@@ -1,0 +1,7 @@
+languageCode: "cmn-CN"
+voiceName: "cmn-CN-Chirp3-HD-Kore"
+inputFilename: "input.txt"
+outputFilename: "output.mp3"
+maxInputBytes: 4500
+speakingRate: 1.0
+pitch: 0.0
