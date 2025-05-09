@@ -170,7 +170,7 @@ func main() {
 	log.Println("Text-to-Speech 客戶端初始化完成。")
 
 	// --- 3. 分割文本 ---
-	textChunks := splitText(inputText, cfg.MaxInputBytes)
+	textChunks := splitText(inputText, 200)
 
 	// --- 4. 準備輸出檔案 ---
 	log.Printf("準備寫入本地檔案: %s\n", cfg.OutputFilename)

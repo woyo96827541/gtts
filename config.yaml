@@ -1,7 +1,7 @@
 languageCode: "cmn-CN"
-voiceName: "cmn-CN-Chirp3-HD-Kore"
-inputFilename: "input.txt"
-outputFilename: "output.mp3"
+voiceName: "cmn-CN-Chirp3-HD-Enceladus"
+inputFilename: "s1.txt"
+outputFilename: "s1.mp3"
 maxInputBytes: 4500
-speakingRate: 1.0
+speakingRate: 1.25
 pitch: 0.0

@@ -1,1 +1,5 @@
 backup/
+*.txt
+*.mp3
+*.gz
+*.tar
